@@ -1,1 +1,2 @@
-# portfolio-page
+# portfolio
+Personal portfolio web page
